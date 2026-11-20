@@ -1,0 +1,6 @@
+# Runtime data created by the app. These files contain email addresses.
+script/config/
+script/logs/
+
+# Release build output
+dist/
